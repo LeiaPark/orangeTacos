@@ -10,8 +10,9 @@
 public class HelloWorld {
 	public static void main(String[] commandLine) {
 		System.out.println("hello, world");
-		System.out.println("bonjour, world");
+		System.out.println("bonjour, world"); // at home
+		System.out.println("salve, world"); // at StuyCS
 	}
 }
 
-
+ 
