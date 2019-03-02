@@ -12,6 +12,8 @@ public class HelloWorld {
 		System.out.println("hello, world");
 		System.out.println("bonjour, world"); // at home
 		System.out.println("salve, world"); // at StuyCS
+                System.out.println("ni hao, world"); // at homeS
+
 	}
 }
 
